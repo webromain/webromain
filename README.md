@@ -74,8 +74,8 @@ I'm a **junior full stack developer** who ships real software while training —
 
 **CMS &amp; E-commerce**
 
-![PrestaShop](https://img.shields.io/badge/PrestaShop-8B5CF6?style=for-the-badge&logo=prestashop&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-1A1B27?style=for-the-badge&logo=wordpress&logoColor=white)
+<img src="https://cdn.simpleicons.org/prestashop" height="48" alt="PrestaShop" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress" height="48" alt="WordPress" />
 
 **Backend &amp; Databases**
 
