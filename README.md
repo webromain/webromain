@@ -1,41 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=220&section=header&text=Romain%20POISSON&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer%20%7C%20Data%20%2F%20AI&descAlignY=60&descSize=20&v=5" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000F17,50:003D57,100:0285BE&height=220&section=header&text=Romain%20POISSON&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer%20%7C%20Data%20%2F%20AI&descAlignY=60&descSize=20&v=5" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Engineer;Data+%26+AI+Engineering+Student;Building+modern%2C+performant%2C+data-driven+products;PrestaShop+%C2%B7+React+%C2%B7+Django+%C2%B7+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0285BE&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Engineer;Data+%26+AI+Engineering+Student;Building+modern%2C+performant%2C+data-driven+products;PrestaShop+%C2%B7+React+%C2%B7+Django+%C2%B7+Docker" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Engineering](https://img.shields.io/badge/Software%20Engineering-6D28D9?style=flat-square&logo=codeforces&logoColor=white)
-![AI](https://img.shields.io/badge/Data%20%26%20AI-7C3AED?style=flat-square&logo=openai&logoColor=white)
-![EFREI](https://img.shields.io/badge/EFREI-Grande%20%C3%89cole%20du%20Num%C3%A9rique-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Versailles%20%C2%B7%20France-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![Engineering](https://img.shields.io/badge/Software%20Engineering-003D57?style=flat-square&logo=codeforces&logoColor=white)
+![AI](https://img.shields.io/badge/Data%20%26%20AI-C3324F?style=flat-square&logo=openai&logoColor=white)
+![EFREI](https://img.shields.io/badge/EFREI-Grande%20%C3%89cole%20du%20Num%C3%A9rique-0285BE?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Versailles%20%C2%B7%20France-000F17?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
 <a href="https://portfolio.romainpoisson.com">
-  <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=0285BE" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/romain-poisson-1a493726a/">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-003D57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:romain.pson@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-C3324F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/webromain">
-  <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=0285BE" alt="GitHub" />
 </a>
 <a href="https://portfolio.romainpoisson.com/cv">
-  <img src="https://img.shields.io/badge/CV-4C1D95?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" />
+  <img src="https://img.shields.io/badge/CV-000F17?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=webromain&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/webromain?label=Followers&style=flat-square&color=7C3AED&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/webromain?label=Stars&style=flat-square&color=6D28D9&logo=github" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=webromain&label=Profile%20Views&color=0285BE&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/webromain?label=Followers&style=flat-square&color=0285BE&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/webromain?label=Stars&style=flat-square&color=C3324F&logo=github" alt="stars" />
 
 </div>
 
@@ -320,30 +320,30 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 
 **Web &amp; Software**
 
-![React](https://img.shields.io/badge/React-1A1B27?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1A1B27?style=flat-square&logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6D28D9?style=flat-square&logo=php&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-8B5CF6?style=flat-square&logo=prestashop&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-1A1B27?style=flat-square&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-101010?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-101010?style=flat-square&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-003D57?style=flat-square&logo=php&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-0285BE?style=flat-square&logo=prestashop&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-101010?style=flat-square&logo=wordpress&logoColor=white)
 
 **Data &amp; AI**
 
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white)
-![Django](https://img.shields.io/badge/Django-8B5CF6?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-003D57?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0285BE?style=flat-square&logo=pandas&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0285BE?style=flat-square&logo=django&logoColor=white)
 
 **DevOps &amp; Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-1A1B27?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux%20Debian-6D28D9?style=flat-square&logo=debian&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-8B5CF6?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-101010?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux%20Debian-003D57?style=flat-square&logo=debian&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0285BE?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0285BE?style=flat-square&logo=git&logoColor=white)
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-1A1B27?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-8B5CF6?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-101010?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-003D57?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0285BE?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 
@@ -351,10 +351,10 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api?username=webromain&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=1A1B27&v=4" alt="stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=webromain&hide_border=true&background=1A1B27&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api?username=webromain&show_icons=true&count_private=true&hide_border=true&title_color=0285BE&icon_color=0285BE&text_color=F0F0F0&bg_color=101010&v=4" alt="stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=webromain&hide_border=true&background=101010&stroke=0285BE&ring=0285BE&fire=C3324F&currStreakLabel=0285BE&sideLabels=F0F0F0&dates=8B8B8B&currStreakNum=F0F0F0&sideNums=F0F0F0" alt="streak" />
 
-<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=1A1B27&langs_count=8&v=8" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=0285BE&text_color=F0F0F0&bg_color=101010&langs_count=8&v=8" alt="top langs" />
 
 </div>
 
@@ -374,7 +374,7 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=webromain&bg_color=1A1B27&color=A855F7&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=webromain&bg_color=101010&color=0285BE&line=0285BE&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -425,16 +425,16 @@ Romain_Poisson:
 <div align="center">
 
 <a href="mailto:roma.poisson@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <img src="https://img.shields.io/badge/Gmail-0285BE?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 <a href="https://www.linkedin.com/in/romain-poisson-1a493726a/">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-003D57?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://github.com/webromain">
-  <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=A855F7" alt="github" />
+  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=0285BE" alt="github" />
 </a>
 <a href="https://portfolio.romainpoisson.com">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0285BE?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
 </a>
 
 </div>
@@ -445,6 +445,6 @@ Romain_Poisson:
 
 _« Sérieux, persévérant et rigoureux — je relève les défis et je propose des solutions efficaces et innovantes, toujours en quête d'apprentissage. »_
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4C1D95&height=140&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0285BE,50:003D57,100:000F17&height=140&section=footer" alt="footer" />
 
 </div>
