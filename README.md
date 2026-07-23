@@ -79,11 +79,11 @@ I'm a **junior full stack developer** who ships real software while training —
 
 **Backend &amp; Databases**
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,mysql,sqlite,mariadb,prisma&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,mysql,sqlite&theme=dark" alt="backend" />
 
 **Cloud, DevOps &amp; Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,git,github,vscode,androidstudio,pytorch&theme=dark" alt="devops" />
+<img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,git,github,vscode,androidstudio&theme=dark" alt="devops" />
 
 </div>
 
@@ -93,14 +93,14 @@ I'm a **junior full stack developer** who ships real software while training —
 
 <div align="center">
 
-| Domain                    |       Level        | What I actually do                                    |
-| :------------------------ | :----------------: | :---------------------------------------------------- |
-| **SQL & Databases**       | ███████░░░ Solid    | MariaDB / MySQL / SQLite modeling, queries, migrations |
-| **Python**                | ██████░░░░ Practical | Django, scripting, ETL, data-driven backends          |
-| **Data Analysis**         | ██████░░░░ Practical | Pandas cleaning, transformation & reporting            |
-| **Analytics & KPIs**      | ██████░░░░ Practical | SEO/SEM analytics, KPI tracking, dashboards            |
-| **AI Integration**        | █████░░░░░ Applied   | Chatbot integration, model-informed UX                 |
-| **Data Science / ML**     | ████░░░░░░ Learning  | Feature engineering, exploratory analysis              |
+| Domain                |        Level         | What I actually do                                     |
+| :-------------------- | :------------------: | :----------------------------------------------------- |
+| **SQL & Databases**   |   ███████░░░ Solid   | MariaDB / MySQL / SQLite modeling, queries, migrations |
+| **Python**            | ██████░░░░ Practical | Django, scripting, ETL, data-driven backends           |
+| **Data Analysis**     | ██████░░░░ Practical | Pandas cleaning, transformation & reporting            |
+| **Analytics & KPIs**  | ██████░░░░ Practical | SEO/SEM analytics, KPI tracking, dashboards            |
+| **AI Integration**    |  █████░░░░░ Applied  | Chatbot integration, model-informed UX                 |
+| **Data Science / ML** | ████░░░░░░ Learning  | Feature engineering, exploratory analysis              |
 
 </div>
 
