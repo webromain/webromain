@@ -72,11 +72,6 @@ I'm a **junior full stack developer** who ships real software while training —
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="frontend" />
 
-**CMS &amp; E-commerce**
-
-<img src="https://cdn.simpleicons.org/prestashop" height="48" alt="PrestaShop" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wordpress" height="48" alt="WordPress" />
-
 **Backend &amp; Databases**
 
 <img src="https://skillicons.dev/icons?i=django,nodejs,mysql,sqlite&theme=dark" alt="backend" />
@@ -84,6 +79,11 @@ I'm a **junior full stack developer** who ships real software while training —
 **Cloud, DevOps &amp; Tooling**
 
 <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,git,github,vscode,androidstudio&theme=dark" alt="devops" />
+
+**CMS &amp; E-commerce**
+
+<img src="https://cdn.simpleicons.org/prestashop" height="48" alt="PrestaShop" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress" height="48" alt="WordPress" />
 
 </div>
 
