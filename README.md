@@ -47,7 +47,7 @@
 
 > **Ingénieur Développement Web Full Stack & Data / IA** — currently training at **EFREI – Grande École du Numérique (Paris)** and building production software as a **Full Stack apprentice at PORT Designs**.
 >
-> *Je suis une personne sérieuse, persévérante et rigoureuse, toujours en quête d'apprentissage. J'aime relever des défis et proposer des solutions efficaces et innovantes.*
+> _Je suis une personne sérieuse, persévérante et rigoureuse, toujours en quête d'apprentissage. J'aime relever des défis et proposer des solutions efficaces et innovantes._
 
 I design and ship **modern, performant, data-driven web products** — from e-commerce platform re-engineering and custom module development to self-hosted, containerized infrastructure. I care about **clean architecture**, **maintainability**, and delivering measurable impact in production.
 
@@ -88,14 +88,14 @@ I design and ship **modern, performant, data-driven web products** — from e-co
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Data Analysis** | ██████████ Advanced | Pandas, data cleaning, transformation & reporting pipelines |
-| **Data Science** | ████████░░ Proficient | Feature engineering, exploratory analysis, KPI modeling |
-| **AI Product Engineering** | ████████░░ Proficient | Chatbot integration, model-informed UX & automation |
-| **Python Engineering** | █████████░ Advanced | Django, scripting, ETL, data-driven backends |
-| **SQL & Databases** | █████████░ Advanced | MariaDB / MySQL / SQLite modeling & optimization |
-| **Analytics & Reporting** | ████████░░ Proficient | SEO/SEM analytics, KPI tracking, dashboards |
+| Domain                     |      Proficiency      | Details                                                     |
+| :------------------------- | :-------------------: | :---------------------------------------------------------- |
+| **Data Analysis**          |  ██████████ Advanced  | Pandas, data cleaning, transformation & reporting pipelines |
+| **Data Science**           | ████████░░ Proficient | Feature engineering, exploratory analysis, KPI modeling     |
+| **AI Product Engineering** | ████████░░ Proficient | Chatbot integration, model-informed UX & automation         |
+| **Python Engineering**     |  █████████░ Advanced  | Django, scripting, ETL, data-driven backends                |
+| **SQL & Databases**        |  █████████░ Advanced  | MariaDB / MySQL / SQLite modeling & optimization            |
+| **Analytics & Reporting**  | ████████░░ Proficient | SEO/SEM analytics, KPI tracking, dashboards                 |
 
 </div>
 
@@ -110,14 +110,14 @@ I design and ship **modern, performant, data-driven web products** — from e-co
 
 Complete rebuild and database migration of the PORT Designs e-commerce platform to a new PrestaShop version. Custom theme, modules, overrides, chatbot, and a privacy-filter selector — maintained and evolved in production.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | PHP · Smarty · PrestaShop · SQL (MariaDB) · Git · cPanel · phpMyAdmin |
-| **Scale** | Full production e-commerce site + database export/migration |
-| **Performance** | Optimized theme & modules, faster catalog rendering |
-| **Security** | Privacy-filter selector, override-based hardening |
-| **Impact** | Live production platform, continuous feature delivery |
-| **Repository** | [PORT Designs](https://github.com/webromain) |
+| Attribute       | Detail                                                                |
+| :-------------- | :-------------------------------------------------------------------- |
+| **Stack**       | PHP · Smarty · PrestaShop · SQL (MariaDB) · Git · cPanel · phpMyAdmin |
+| **Scale**       | Full production e-commerce site + database export/migration           |
+| **Performance** | Optimized theme & modules, faster catalog rendering                   |
+| **Security**    | Privacy-filter selector, override-based hardening                     |
+| **Impact**      | Live production platform, continuous feature delivery                 |
+| **Repository**  | [PORT Designs](https://github.com/webromain)                          |
 
 Led the full front-to-back re-engineering: theme development, custom modules, PrestaShop overrides, a customer-facing chatbot, versioning & GitHub workflow, technical documentation, and Figma design/mockups.
 
@@ -130,14 +130,14 @@ Led the full front-to-back re-engineering: theme development, custom modules, Pr
 
 Dynamic PHP web application with accounts, an admin panel, comments, favorites, and personal profiles, built on a modular software architecture with a focus on good development practices.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | PHP Native · Bootstrap · SQLite · MySQL |
-| **Scale** | Multi-role app (users / admin) with full CRUD |
-| **Performance** | Modular architecture, optimized SQL queries |
-| **Security** | Auth, routing, cybersecurity best practices |
-| **Impact** | Full-featured dynamic site, end-to-end ownership |
-| **Repository** | [Blog Van Gogh](https://github.com/webromain) |
+| Attribute       | Detail                                           |
+| :-------------- | :----------------------------------------------- |
+| **Stack**       | PHP Native · Bootstrap · SQLite · MySQL          |
+| **Scale**       | Multi-role app (users / admin) with full CRUD    |
+| **Performance** | Modular architecture, optimized SQL queries      |
+| **Security**    | Auth, routing, cybersecurity best practices      |
+| **Impact**      | Full-featured dynamic site, end-to-end ownership |
+| **Repository**  | [Blog Van Gogh](https://github.com/webromain)    |
 
 Designed a modular, maintainable architecture with SQL database management, secure routing, and a clean UI.
 
@@ -150,14 +150,14 @@ Designed a modular, maintainable architecture with SQL database management, secu
 
 E-Commerce site handling product management, cart, and users with a full administration interface.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | Python · Django · SQLite |
-| **Scale** | Products · Cart · Users · Admin backoffice |
-| **Performance** | Django ORM, server-rendered views |
-| **Security** | Django auth, admin permissions |
-| **Impact** | End-to-end functional storefront |
-| **Repository** | [E-Commerce Django](https://github.com/webromain) |
+| Attribute       | Detail                                            |
+| :-------------- | :------------------------------------------------ |
+| **Stack**       | Python · Django · SQLite                          |
+| **Scale**       | Products · Cart · Users · Admin backoffice        |
+| **Performance** | Django ORM, server-rendered views                 |
+| **Security**    | Django auth, admin permissions                    |
+| **Impact**      | End-to-end functional storefront                  |
+| **Repository**  | [E-Commerce Django](https://github.com/webromain) |
 
 Built a complete storefront with Django's admin, ORM, and authentication layers.
 
@@ -170,14 +170,14 @@ Built a complete storefront with Django's admin, ORM, and authentication layers.
 
 A game inspired by the popular Flappy Bird, featuring progressive difficulty and realistic gravity — built in two weeks as a pair.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | C++ · SFML |
-| **Scale** | Full playable game loop |
-| **Performance** | Real-time rendering & physics |
-| **Security** | N/A (offline game) |
-| **Impact** | Delivered in 2 weeks (pair programming) |
-| **Repository** | [Flappy Bird Clone](https://github.com/webromain) |
+| Attribute       | Detail                                            |
+| :-------------- | :------------------------------------------------ |
+| **Stack**       | C++ · SFML                                        |
+| **Scale**       | Full playable game loop                           |
+| **Performance** | Real-time rendering & physics                     |
+| **Security**    | N/A (offline game)                                |
+| **Impact**      | Delivered in 2 weeks (pair programming)           |
+| **Repository**  | [Flappy Bird Clone](https://github.com/webromain) |
 
 Implemented realistic gravity, progressive difficulty, and the full game loop in C++/SFML.
 
@@ -190,14 +190,14 @@ Implemented realistic gravity, progressive difficulty, and the full game loop in
 
 Advanced CSS project reproducing realistic Pokémon cards through design and animation techniques that faithfully mimic physical cards.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | HTML/CSS · JavaScript |
-| **Scale** | Interactive animated card components |
-| **Performance** | GPU-friendly CSS animations |
-| **Security** | N/A (static front-end) |
-| **Impact** | Showcase of advanced CSS craftsmanship |
-| **Repository** | [Pokémon Cards](https://github.com/webromain) |
+| Attribute       | Detail                                        |
+| :-------------- | :-------------------------------------------- |
+| **Stack**       | HTML/CSS · JavaScript                         |
+| **Scale**       | Interactive animated card components          |
+| **Performance** | GPU-friendly CSS animations                   |
+| **Security**    | N/A (static front-end)                        |
+| **Impact**      | Showcase of advanced CSS craftsmanship        |
+| **Repository**  | [Pokémon Cards](https://github.com/webromain) |
 
 Explored advanced CSS transforms, lighting, and animation to reproduce physical-card realism.
 
@@ -210,14 +210,14 @@ Explored advanced CSS transforms, lighting, and animation to reproduce physical-
 
 Android application for managing notes and to-do lists with priorities and due dates.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | Kotlin · Android Studio |
-| **Scale** | Notes + tasks with priorities & deadlines |
-| **Performance** | Native Android UI |
-| **Security** | Local device storage |
-| **Impact** | Fully functional native mobile app |
-| **Repository** | [Notea](https://github.com/webromain) |
+| Attribute       | Detail                                    |
+| :-------------- | :---------------------------------------- |
+| **Stack**       | Kotlin · Android Studio                   |
+| **Scale**       | Notes + tasks with priorities & deadlines |
+| **Performance** | Native Android UI                         |
+| **Security**    | Local device storage                      |
+| **Impact**      | Fully functional native mobile app        |
+| **Repository**  | [Notea](https://github.com/webromain)     |
 
 Built a native Android productivity app with priority and due-date management.
 
@@ -230,14 +230,14 @@ Built a native Android productivity app with priority and due-date management.
 
 CRUD (Create, Read, Update, Delete) application in PHP managing data stored in a JSON file through a web interface.
 
-| Attribute | Detail |
-| :--- | :--- |
-| **Stack** | PHP Native |
-| **Scale** | Full CRUD over a JSON datastore |
-| **Performance** | Lightweight, dependency-free |
-| **Security** | Server-side input handling |
-| **Impact** | Clean demonstration of CRUD fundamentals |
-| **Repository** | [JSON CRUD](https://github.com/webromain) |
+| Attribute       | Detail                                    |
+| :-------------- | :---------------------------------------- |
+| **Stack**       | PHP Native                                |
+| **Scale**       | Full CRUD over a JSON datastore           |
+| **Performance** | Lightweight, dependency-free              |
+| **Security**    | Server-side input handling                |
+| **Impact**      | Clean demonstration of CRUD fundamentals  |
+| **Repository**  | [JSON CRUD](https://github.com/webromain) |
 
 Implemented complete CRUD operations against a JSON store via a simple web UI.
 
@@ -248,6 +248,7 @@ Implemented complete CRUD operations against a JSON store via a simple web UI.
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Experience
 
 ### `Software Engineer — Web` · **Thales Services Numériques**
+
 `Apprenticeship · 2026 – 2028`
 
 Building projects of all kinds across varied domains using **Agile Scrum** methodology.
@@ -261,6 +262,7 @@ Building projects of all kinds across varied domains using **Agile Scrum** metho
 <br/>
 
 ### `Full Stack Web Developer` · **PORT Designs**
+
 `Apprenticeship · 2025 – 2026`
 
 Complete re-engineering of the e-commerce site, new feature development, performance optimization, and improved user experience.
@@ -274,6 +276,7 @@ Complete re-engineering of the e-commerce site, new feature development, perform
 <br/>
 
 ### `Waiter` · **Indiana Café**
+
 `Part-time (CDI) · 2025`
 
 Table service, order management, and customer relations in a fast-paced environment.
@@ -283,6 +286,7 @@ Table service, order management, and customer relations in a fast-paced environm
 <br/>
 
 ### `Digital Marketing Intern` · **QPark France Services**
+
 `Internship · 2024`
 
 Digital marketing, SEO/SEM, website management, content creation, project tracking, analysis, reporting & KPIs.
@@ -295,13 +299,13 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 
 <div align="center">
 
-| Recognition | Details |
-| :--- | :--- |
-| 🎯 **Incoming Engineer @ Thales** | Selected for a 2026–2028 Web Engineering apprenticeship |
-| 🚀 **Production E-Commerce Delivery** | Re-engineered & migrated the full PORT Designs platform |
-| 🖥️ **Self-Hosted Infrastructure** | Built a homemade Debian server + containerized personal cloud (NextCloud) |
-| 🌐 **Live Portfolio Platform** | Deployed portfolio.romainpoisson.com on owned, Dockerized infra |
-| 🗣️ **English B2** | Professional working proficiency |
+| Recognition                           | Details                                                                   |
+| :------------------------------------ | :------------------------------------------------------------------------ |
+| 🎯 **Incoming Engineer @ Thales**     | Selected for a 2026–2028 Web Engineering apprenticeship                   |
+| 🚀 **Production E-Commerce Delivery** | Re-engineered & migrated the full PORT Designs platform                   |
+| 🖥️ **Self-Hosted Infrastructure**     | Built a homemade Debian server + containerized personal cloud (NextCloud) |
+| 🌐 **Live Portfolio Platform**        | Deployed portfolio.romainpoisson.com on owned, Dockerized infra           |
+| 🗣️ **English B2**                     | Professional working proficiency                                          |
 
 </div>
 
@@ -342,10 +346,10 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=webromain&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=1A1B27" alt="stats" />
+<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api?username=webromain&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=1A1B27" alt="stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=webromain&hide_border=true&background=1A1B27&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=1A1B27&langs_count=8" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=1A1B27&langs_count=8" alt="top langs" />
 
 </div>
 
@@ -355,7 +359,7 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=webromain&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy-jade-three.vercel.app/?username=webromain&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
@@ -434,7 +438,7 @@ Romain_Poisson:
 
 <div align="center">
 
-*« Sérieux, persévérant et rigoureux — je relève les défis et je propose des solutions efficaces et innovantes, toujours en quête d'apprentissage. »*
+_« Sérieux, persévérant et rigoureux — je relève les défis et je propose des solutions efficaces et innovantes, toujours en quête d'apprentissage. »_
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4C1D95&height=140&section=footer" alt="footer" />
 
