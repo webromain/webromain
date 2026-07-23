@@ -70,7 +70,12 @@ I'm a **junior full stack developer** who ships real software while training —
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma,wordpress&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="frontend" />
+
+**CMS &amp; E-commerce**
+
+![PrestaShop](https://img.shields.io/badge/PrestaShop-8B5CF6?style=for-the-badge&logo=prestashop&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-1A1B27?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Backend &amp; Databases**
 
