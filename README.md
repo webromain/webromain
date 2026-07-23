@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=220&section=header&text=Romain%20POISSON&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer%20%7C%20Data%20%26%20AI&descAlignY=60&descSize=20&v=3" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=220&section=header&text=Romain%20POISSON&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer%20%7C%20Data%20%2F%20AI&descAlignY=60&descSize=20&v=5" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Engineer;Data+%26+AI+Engineering+Student;Building+modern%2C+performant%2C+data-driven+products;PrestaShop+%C2%B7+React+%C2%B7+Django+%C2%B7+Docker" alt="Typing SVG" />
@@ -346,10 +346,10 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api?username=webromain&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=1A1B27&v=3" alt="stats" />
+<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api?username=webromain&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=1A1B27&v=4" alt="stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=webromain&hide_border=true&background=1A1B27&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
-<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=1A1B27&langs_count=8&v=3" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=1A1B27&langs_count=8&v=4" alt="top langs" />
 
 </div>
 
