@@ -18,14 +18,17 @@
 <a href="https://portfolio.romainpoisson.com">
   <img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/romain-poisson">
+<a href="https://www.linkedin.com/in/romain-poisson-1a493726a/">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:roma.poisson@gmail.com">
+<a href="mailto:romain.pson@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/webromain">
   <img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub" />
+</a>
+<a href="https://portfolio.romainpoisson.com/cv">
+  <img src="https://img.shields.io/badge/CV-4C1D95?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" />
 </a>
 
 <br/><br/>
@@ -42,7 +45,9 @@
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/webromain/webromain/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
-> Full Stack Web Engineer with a **Data & AI** engineering focus, currently training at **EFREI – Grande École du Numérique (Paris)** and building production software as a **Full Stack apprentice at PORT Designs**.
+> **Ingénieur Développement Web Full Stack & Data / IA** — currently training at **EFREI – Grande École du Numérique (Paris)** and building production software as a **Full Stack apprentice at PORT Designs**.
+>
+> *Je suis une personne sérieuse, persévérante et rigoureuse, toujours en quête d'apprentissage. J'aime relever des défis et proposer des solutions efficaces et innovantes.*
 
 I design and ship **modern, performant, data-driven web products** — from e-commerce platform re-engineering and custom module development to self-hosted, containerized infrastructure. I care about **clean architecture**, **maintainability**, and delivering measurable impact in production.
 
@@ -413,7 +418,7 @@ Romain_Poisson:
 <a href="mailto:roma.poisson@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://www.linkedin.com/in/romain-poisson">
+<a href="https://www.linkedin.com/in/romain-poisson-1a493726a/">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://github.com/webromain">
@@ -429,7 +434,7 @@ Romain_Poisson:
 
 <div align="center">
 
-*"Determined, rigorous and passionate — I build efficient, innovative solutions and I never stop learning."*
+*« Sérieux, persévérant et rigoureux — je relève les défis et je propose des solutions efficaces et innovantes, toujours en quête d'apprentissage. »*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:4C1D95&height=140&section=footer" alt="footer" />
 
