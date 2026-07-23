@@ -49,14 +49,14 @@
 >
 > _Je suis une personne sérieuse, persévérante et rigoureuse, toujours en quête d'apprentissage. J'aime relever des défis et proposer des solutions efficaces et innovantes._
 
-I design and ship **modern, performant, data-driven web products** — from e-commerce platform re-engineering and custom module development to self-hosted, containerized infrastructure. I care about **clean architecture**, **maintainability**, and delivering measurable impact in production.
+I'm a **junior full stack developer** who ships real software while training — currently re-engineering a **production e-commerce platform at PORT Designs** and running my own **self-hosted, containerized infrastructure**. I learn fast, ship carefully, and care about **clean, maintainable code**. Next step: **Web Engineering apprentice at Thales (2026)**.
 
-- **Software Engineering** — full stack architecture, custom modules, overrides, production maintenance.
-- **AI / ML & Data** — Python data pipelines, Pandas, model-informed product thinking.
-- **Full Stack Development** — React / Next.js on the front, PHP / Django / Node on the back.
-- **Product Engineering** — from Figma design to shipped, versioned, documented features.
+- **Full Stack Web** — React / Next.js on the front, PHP / Django / Node on the back. My main focus.
+- **Real production work** — custom PrestaShop modules, overrides, a full migration, ongoing maintenance.
+- **DevOps, hands-on** — Docker, Linux Debian server, Cloudflare, a self-hosted personal cloud.
+- **Data & AI — actively growing** — Python, Pandas, chatbot integration; the area I'm investing in next.
 
-**Open To** — Software Engineering roles, Full Stack opportunities, AI/Data-driven product work, and open-source collaboration.
+**Open To** — junior / apprenticeship full stack roles, data-driven product work, and open-source collaboration.
 
 ---
 
@@ -84,18 +84,18 @@ I design and ship **modern, performant, data-driven web products** — from e-co
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> AI / ML &amp; Data Expertise
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> AI / ML &amp; Data — Focus Areas
 
 <div align="center">
 
-| Domain                     |      Proficiency      | Details                                                     |
-| :------------------------- | :-------------------: | :---------------------------------------------------------- |
-| **Data Analysis**          |  ██████████ Advanced  | Pandas, data cleaning, transformation & reporting pipelines |
-| **Data Science**           | ████████░░ Proficient | Feature engineering, exploratory analysis, KPI modeling     |
-| **AI Product Engineering** | ████████░░ Proficient | Chatbot integration, model-informed UX & automation         |
-| **Python Engineering**     |  █████████░ Advanced  | Django, scripting, ETL, data-driven backends                |
-| **SQL & Databases**        |  █████████░ Advanced  | MariaDB / MySQL / SQLite modeling & optimization            |
-| **Analytics & Reporting**  | ████████░░ Proficient | SEO/SEM analytics, KPI tracking, dashboards                 |
+| Domain                    |       Level        | What I actually do                                    |
+| :------------------------ | :----------------: | :---------------------------------------------------- |
+| **SQL & Databases**       | ███████░░░ Solid    | MariaDB / MySQL / SQLite modeling, queries, migrations |
+| **Python**                | ██████░░░░ Practical | Django, scripting, ETL, data-driven backends          |
+| **Data Analysis**         | ██████░░░░ Practical | Pandas cleaning, transformation & reporting            |
+| **Analytics & KPIs**      | ██████░░░░ Practical | SEO/SEM analytics, KPI tracking, dashboards            |
+| **AI Integration**        | █████░░░░░ Applied   | Chatbot integration, model-informed UX                 |
+| **Data Science / ML**     | ████░░░░░░ Learning  | Feature engineering, exploratory analysis              |
 
 </div>
 
@@ -349,7 +349,7 @@ Digital marketing, SEO/SEM, website management, content creation, project tracki
 <img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api?username=webromain&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=1A1B27&v=4" alt="stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=webromain&hide_border=true&background=1A1B27&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
-<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=1A1B27&langs_count=8&v=4" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-nexowyn.vercel.app/api/top-langs/?username=webromain&layout=compact&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=1A1B27&langs_count=8&v=8" alt="top langs" />
 
 </div>
 
