@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000F17,50:003D57,100:0285BE&height=220&section=header&text=Romain%20POISSON&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Engineer%20%7C%20Data%20%2F%20AI&descAlignY=60&descSize=20&v=5" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0285BE&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Engineer;Data+%26+AI+Engineering+Student;Building+smarter+digital+products;React+%C2%B7+JS+%C2%B7+Java+%C2%B7+Django+%C2%B7+Docker+%C2%B7+PrestaShop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=0285BE&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Engineer;Data+%26+AI+Engineering+Student;Building+smarter+digital+products;React+%C2%B7+Java+%C2%B7+Django+%C2%B7+Docker+%C2%B7+PrestaShop" alt="Typing SVG" />
 </a>
 
 <br/>
